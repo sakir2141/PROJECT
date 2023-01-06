@@ -1,4 +1,4 @@
-variable "number" {
-    type = number
-    default = 100
+variable "sakir" {
+        type = number
+        default = 100
 }
