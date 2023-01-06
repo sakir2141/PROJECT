@@ -1,4 +1,4 @@
 resource "local_file" "file" {
-    content  = "var.number"
+    content  = "var.sakir"
     filename = "${path.module}/sakir.txt"
 }
