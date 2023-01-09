@@ -1,4 +1,4 @@
-resource "local_file" "file" {
-        filename = "${path.module}/file1.txt"
+resource "local_file" "devops" {
+        filename = "${path.module}/devops.txt"
         content = var.sakir
 }
